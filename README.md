@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning MERN stack development
 - 👯 I’m looking for collaboration opportunities in front-end development with React.js.
-- 🤔 I’m looking for help with front-end development.
 - 💬 Ask me about component-based design in React.
 - 📫 How to reach me: ssiyam152@gmail.com
 - ⚡ Fun fact: React.js is my happy place.
