@@ -5,8 +5,7 @@
 - 💬 Ask me about component-based design in React.
 - 📫 How to reach me: ssiyam152@gmail.com
 - ⚡ Fun fact: React.js is my happy place.
--  About me: Hi, I’m Syed Rafsun Iyajdani Siyam 👋
--  
+-  About me: Hi, I’m Syed Rafsun Iyajdani Siyam 👋-  
 I’m a front-end developer specializing in React.js with experience in HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, and Figma. I enjoy building clean, responsive user interfaces. Currently, I’m learning the MERN stack to expand my skills in full-stack development. I love learning new technologies, solving UI problems, and continuously improving my coding skills.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ssiyam152) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafsunsiyam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-rafsun-iyajdani-siyam-41690a1ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssiyam152@gmail.com) 
