@@ -1,10 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning MERN stack development
-- 👯 I’m looking for collaboration opportunities in front-end development with React.js.
-- 💬 Ask me about component-based design in React.
-- 📫 How to reach me: ssiyam152@gmail.com
-- ⚡ Fun fact: React.js is my happy place.
 -  About me: Hi, I’m Syed Rafsun Iyajdani Siyam 👋-  
 I’m a front-end developer specializing in React.js with experience in HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, and Figma. I enjoy building clean, responsive user interfaces. Currently, I’m learning the MERN stack to expand my skills in full-stack development. I love learning new technologies, solving UI problems, and continuously improving my coding skills.
 ## 🌐 Socials:
